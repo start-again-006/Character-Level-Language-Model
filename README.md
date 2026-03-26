@@ -61,7 +61,7 @@ flowchart TD
     subgraph Training Engine
         C1[Forward Pass]
         C2[Loss Computation]
-        C3[Backward Pass (BPTT)]
+        C3[Backward Pass - BPTT]
     end
 
     subgraph Optimization
