@@ -45,6 +45,7 @@ flowchart LR
     F --> G[Generated Sequence]
 ```
 
+```mermaid
 flowchart TD
     subgraph Data Layer
         A1[Text Dataset]
